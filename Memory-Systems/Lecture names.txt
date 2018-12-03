@@ -1,0 +1,28 @@
+1a - Memory Importance and Trends
+1b - Course Logistics
+1c - Main Memory and DRAM Basics
+
+2a - Memory Scaling: Reliability & Security
+2b - Flash Memory Reliability & Security
+2c - DRAM Refresh
+
+3 - Processing-in-Memory
+
+4 - Low-Latency Memory
+
+5 - Emerging Memory Technologies
+
+6 - Memory Interference and QoS
+
+
+day 3, p1 - Low-latency Memory
+day 3, p2 - Low-latency Memory
+day 3, p3 - Low-latency Memory
+day 3, p4-5-6 Emerging Memory Technologies
+day 3, p6 - Memory Interference and QoS
+
+Day 4, p1-2-3-4 - Memory Interference and QoS
+Day 4, p5-6 - Interconnect
+
+Day 5, p1-2 - Interconnect
+
